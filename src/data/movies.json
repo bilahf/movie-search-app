@@ -1,0 +1,47 @@
+[
+  {
+    "imdbID": "tt0111161",
+    "Title": "The Shawshank Redemption",
+    "Year": "1994",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_SX300.jpg",
+    "imdbRating": "9.3",
+    "Plot": "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0068646",
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "imdbRating": "9.2",
+    "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0468569",
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+    "imdbRating": "9.0",
+    "Plot": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0137523",
+    "Title": "Fight Club",
+    "Year": "1999",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "imdbRating": "8.8",
+    "Plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "Type": "movie"
+  },
+  {
+    "imdbID": "tt0110912",
+    "Title": "Pulp Fiction",
+    "Year": "1994",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjA3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbRating": "8.9",
+    "Plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "Type": "movie"
+  }
+]
